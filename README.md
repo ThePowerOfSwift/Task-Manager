@@ -1,7 +1,6 @@
 # Task-Manager
 ✅  Task Manager
 
-# Foursquare-Restaurants-Swift
 Description: Simle To Do List App Using Core Data
 
 ## Demo
