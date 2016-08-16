@@ -1,7 +1,7 @@
 # Task-Manager
 ✅  Task Manager
 
-Description: Simle To Do List App Using Core Data
+Description: Simple To Do List App Using Core Data
 
 ## Demo
 
